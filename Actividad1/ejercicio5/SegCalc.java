@@ -15,7 +15,7 @@ public class SegCalc {
     public static double elevar_al_cuadrado(double valor, double x){
         return x + Math.pow(valor, 2);
     }
-    public static double dividir(double dividendo, double divisor){
-        return dividendo / divisor;
+    public static double dividir(double div1, double div2){
+        return div1 / div2;
     }
 }
